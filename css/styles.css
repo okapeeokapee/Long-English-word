@@ -2,7 +2,7 @@ body{
   padding-top: 40px;
   font-family: 'Courier New',monospace;
   text-align: center;
-  
+
 }
 
 .frame{
@@ -25,11 +25,10 @@ body{
   box-shadow: 2px 2px 8px;
 }
 .reframe{
-  font-size:30px ;
+  font-size:20px ;
   letter-spacing: .1em;
-  width: 400px;
   text-align: center;
-  margin: auto;
+  margin: 0 auto 0 auto;
 }
 .dest{
   display: none;
