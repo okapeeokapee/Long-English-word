@@ -1,0 +1,36 @@
+body{
+  padding-top: 40px;
+  font-family: 'Courier New',monospace;
+  text-align: center;
+  
+}
+
+.frame{
+  font-size:35px ;
+  letter-spacing: .1em;
+  border: solid 3px;
+  border-radius: 6px;
+  width: 400px;
+  text-align: center;
+  margin: auto;
+  background: #FFFFEE;
+  user-select: none;
+  cursor: pointer;
+  box-shadow: 2px 4px 8px;
+}
+.frame:hover{
+  opacity: .8;
+}
+.frame:active{
+  box-shadow: 2px 2px 8px;
+}
+.reframe{
+  font-size:30px ;
+  letter-spacing: .1em;
+  width: 400px;
+  text-align: center;
+  margin: auto;
+}
+.dest{
+  display: none;
+}
